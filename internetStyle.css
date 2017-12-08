@@ -7,11 +7,13 @@ img {
     width: 100px;
     height: auto;
     display: inline;
+    vertical-align: middle;
 }
 
-h1 {
+#logo p {
     display: inline;
     font-size: 45px;
+    vertical-align: middle;
 }
 
 .blue {
@@ -22,12 +24,13 @@ h1 {
     color: rgb(222, 0, 0);
 }
 
-h2 {
+h1 {
     background: linear-gradient(rgb(35, 108, 158), rgb(74, 131, 170), rgb(35, 108, 158));
     color: white;
     padding: 10px 0px 10px 20px;
     font-size: 35px;
-    margin: -25px 0px 0px 0px;
+    margin: -15px 0px 0px 0px;
+    font-weight: normal;
 }
 
 #leftContent {
@@ -41,9 +44,10 @@ h2 {
     width: 245px;
     margin: 20px 0px 20px 3px;
     padding: 0px 0px 0px 0px;
+    display: inline;
 }
 
-#leftWrapper h1 {
+#leftWrapper h2 {
     font-size: 18px;
 }
 
@@ -171,7 +175,6 @@ h2 {
 }
 
 #big3 {
-    display: inline-block;
     border-top: 5px solid rgb(0, 133,218);
     border-right: 5px solid rgb(0, 133,218);
     border-left: 5px solid rgb(0, 133,218);
