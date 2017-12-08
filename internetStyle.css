@@ -1,0 +1,190 @@
+body {
+    width: 970px;
+    font-family: sans-serif;
+}
+
+img {
+    width: 100px;
+    height: auto;
+    display: inline;
+}
+
+h1 {
+    display: inline;
+    font-size: 45px;
+}
+
+.blue {
+    color: rgb(0, 99, 154);
+}
+
+.red {
+    color: rgb(222, 0, 0);
+}
+
+h2 {
+    background: linear-gradient(rgb(35, 108, 158), rgb(74, 131, 170), rgb(35, 108, 158));
+    color: white;
+    padding: 10px 0px 10px 20px;
+    font-size: 35px;
+    margin: -25px 0px 0px 0px;
+}
+
+#leftContent {
+    border-bottom: 2px solid rgb(185, 185, 185);
+    padding: 0px 0px 10px 0px;
+    width: 245px;
+    font-size: 13px;
+}
+
+#leftWrapper {
+    width: 245px;
+    margin: 20px 0px 20px 3px;
+    padding: 0px 0px 0px 0px;
+}
+
+#leftWrapper h1 {
+    font-size: 18px;
+}
+
+#leftWrapper button {
+    color: white;
+    width: 200px;
+    height: 35px;
+    font-size: 20px;
+    box-shadow: 2px 2px 2px grey;
+    margin: 0px 0px 5px 10px;
+    border: 0px;
+}
+
+#video {
+    background-color: rgb(0, 99, 154);
+}
+
+#resources {
+    background-color: rgb(243, 136, 38);
+}
+
+#ad {
+    background-image: url("images/ad_background.png");
+    width: 225px;
+    margin: 10px 0px 0px 3px;
+    padding: 20px 10px 20px 10px;
+    color: white;
+    text-align: center;
+    font-size: 26px;
+    display: inline-block;
+}
+
+#ad p {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+#ad button {
+    background-color: rgb(49, 198, 208);
+    width: 205px;
+    border: 0px;
+    color: white;
+    height: 35px;
+}
+
+#rightWrapper {
+    width: 675px;
+    display: inline-block;
+    margin-left: 280px;
+}
+
+#contactBar {
+    height: 100px;
+    border-bottom: 2px solid rgb(185, 185, 185);
+    color: rgb(0, 99, 154);
+    padding-bottom: 10px;
+}
+
+#DNSpic {
+    width: 25px;
+    height: auto;
+    display: inline;
+}
+
+#leftContact p {
+    display: inline;
+}
+
+#rightContact {
+    margin-left: 425px;
+    text-align: center;
+}
+
+#phonePic {
+    display: inline;
+    width: 55px;
+    height: auto;
+    margin-right: 10px;
+    margin: 10px 10px 0px 0px;
+    float: left;
+}
+
+.smallContact {
+    display: inline-block;
+    font-size: 12px;
+    color: grey;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+}
+
+#phone {
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(7, 192, 221);
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.clients {
+    margin: 10px 0px 0px 0px;
+}
+
+.clients h1 {
+    font-size: 20px;
+    color: rgb(0, 99, 154);
+}
+
+.clients p {
+    margin: 10px 0px 0px 0px;
+}
+
+.clients li {
+    margin: 10px 0px 0px 0px;
+}
+
+.clients span {
+    color: rgb(7, 192, 221);
+}
+
+#clientsImg {
+    width: 250px;
+    margin-left: 235px;
+}
+
+#big3 {
+    display: inline-block;
+    border-top: 5px solid rgb(0, 133,218);
+    border-right: 5px solid rgb(0, 133,218);
+    border-left: 5px solid rgb(0, 133,218);
+    padding: 15px 15px 2px 15px
+}
+
+#big3 img {
+    float: left;
+    width: 125px;
+    height: auto;
+}
+
+#big3 a {
+    color: rgb(0, 147, 170);
+    text-decoration: none;
+}
