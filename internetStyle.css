@@ -97,11 +97,11 @@ h1 {
 
 #rightWrapper {
     width: 675px;
-    margin: -525px 0px 0px 300px;
+    margin: -560px 0px 0px 300px;
 }
 
 #contactBar {
-    height: 100px;
+    height: 75px;
     border-bottom: 2px solid rgb(185, 185, 185);
     color: rgb(0, 99, 154);
     padding-bottom: 10px;
@@ -111,15 +111,18 @@ h1 {
     width: 25px;
     height: auto;
     display: inline;
+    vertical-align: middle;
 }
 
 #leftContact p {
     display: inline;
+    vertical-align: middle;
 }
 
 #rightContact {
-    margin-left: 425px;
+    margin: -25px 0px 0px 425px;
     text-align: center;
+
 }
 
 #phonePic {
